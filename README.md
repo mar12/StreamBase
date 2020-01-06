@@ -25,6 +25,7 @@ A request message to the server has the following format:
 |-----------|----------|-----------|-----------|------|
 
 A response message from the server has the following format:
+
 | Result ID | Data |
 |-----------|------|
 
